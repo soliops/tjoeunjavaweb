@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-첫 JSP
+첫 JSP - 서버에서 변경
 </body>
 <script>
 window.addEventListener("load",(e)=>{
