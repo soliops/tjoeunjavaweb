@@ -40,5 +40,6 @@
 	class="org.springframework.web.multipart.commons.CommonsMultipartResolver"
 	>
 	</beans:bean>
-	
+	<!-- 컨트롤러가 처리하지 못하는 요청을 웹컨테이너가 처리하도록 변경 -->
+	<default-servlet-handler/>
 </beans:beans>

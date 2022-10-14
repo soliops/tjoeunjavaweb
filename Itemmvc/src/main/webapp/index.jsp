@@ -10,6 +10,7 @@
 <a href="hello">안녕하세요</a><br>
 <a href="blog/100">URL 파라미터</a><br>
 <a href="parameter">파라미터 읽기</a><br>
-
+<a href="/allitem">모두 보기</a><br>
+<!-- <a href="/getitem">하나만 보기</a><br> -->
 </body>
 </html>
